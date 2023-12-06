@@ -1,2 +1,2 @@
 # heart
-heart for fun
+heart for fun-funny
